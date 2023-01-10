@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexUpdate17
 - 👀 I’m interested in ... network forensics and data analytics
-- 🌱 I’m currently learning ... how to code i'm pretty new
+- 🌱 I’m currently learning
 
 
 <!---
